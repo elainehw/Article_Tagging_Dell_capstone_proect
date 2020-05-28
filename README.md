@@ -1,3 +1,4 @@
 # Dell_Capstone
 
-#### Do not upload data to this repository
+
+A capstone project collabrated with Gaberial James, Logan Liu and Emily Wilkins
